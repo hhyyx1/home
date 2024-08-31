@@ -6,26 +6,26 @@
     "url": "https://github.com/hhyyx1"
   },
   {
-    "name": "BiliBili",
-    "icon": "/images/icon/status.png",
+    "name": "Status",
+    "icon": "/images/icon/status2.png",
     "tip": "打开有惊喜哦 ~",
     "url": "https://nezha.wzfc.us.kg"
   },
   {
     "name": "Email",
-    "icon": "/images/icon/email.png",
+    "icon": "/images/icon/email2.png",
     "tip": "来封 Email ~",
     "url": "dio114514@7374520.xyz"
   },
   {
     "name": "ai",
-    "icon": "/images/icon/ai.png",
+    "icon": "/images/icon/ai2.png",
     "tip": "不确定来看看吗 ~",
     "url": "https://ha.abo.ink"
   },
   {
     "name": "Telegram",
-    "icon": "/images/icon/telegram.png",
+    "icon": "/images/icon/telegram2.png",
     "tip": "你懂的 ~",
     "url": "https://t.me/kkz114514Bot"
   }
