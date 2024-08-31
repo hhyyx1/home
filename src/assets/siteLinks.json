@@ -17,12 +17,12 @@
   {
     "icon": "Compass",
     "name": "起始页",
-    "link": "https://nav.imsyy.top/"
+    "link": "https://lucky.wzcc.us.kg/"
   },
   {
     "icon": "Book",
     "name": "网址集",
-    "link": "https://web.imsyy.top/"
+    "link": "https://www.jspoo.com/"
   },
   {
     "icon": "Fire",
@@ -33,5 +33,10 @@
     "icon": "LaptopCode",
     "name": "站点监测",
     "link": "https://status.wzcc.us.kg/"
+  },
+  {
+    "icon": "LogicalPartition",
+    "name": "域名监测",
+    "link": "https://domain.7374520.xyz/"
   }
 ]
