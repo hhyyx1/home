@@ -12,7 +12,7 @@
   {
     "icon": "CompactDisc",
     "name": "音乐",
-    "link": "https://music.imsyy.top/"
+    "link": "https://mu-jie.cc/musicBox/"
   },
   {
     "icon": "Compass",
@@ -31,12 +31,17 @@
   },
   {
     "icon": "LaptopCode",
-    "name": "站点监测",
+    "name": "哪吒监测",
     "link": "https://status.wzcc.us.kg/"
   },
   {
     "icon": "ChartBarRegular",
     "name": "域名监测",
     "link": "https://domain.7374520.xyz/"
+  },
+  {
+    "icon": "ChartBar",
+    "name": "站点监测",
+    "link": "https://status.7374520.xyz/"
   }
 ]
