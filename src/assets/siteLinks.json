@@ -20,9 +20,9 @@
     "link": "https://lucky.wzcc.us.kg/"
   },
   {
-    "icon": "Book",
-    "name": "网址集",
-    "link": "https://www.jspoo.com/"
+    "icon": "CommentsRegular",
+    "name": "ai",
+    "link": "https://aibing.7374520.xyz/"
   },
   {
     "icon": "Fire",
@@ -43,5 +43,15 @@
     "icon": "ChartBar",
     "name": "站点监测",
     "link": "https://status.7374520.xyz/"
+  },
+  {
+    "icon": "Book",
+    "name": "网址集",
+    "link": "https://www.acgdh.cc/"
+  },
+  {
+    "icon": "Image",
+    "name": "若梦图床",
+    "link": "https://img.7374520.xyz/"
   }
 ]
